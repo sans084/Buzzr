@@ -232,5 +232,6 @@ This project is built for educational purposes.
 
 <p align="center">Built with 🐝 by Sanskriti Bharti</p>
 
-<p align="center">Made with 🐝 and lots of ☕.</p>
+<p align="center">Made with 🐝 and lots of ☕</p>
+
 
